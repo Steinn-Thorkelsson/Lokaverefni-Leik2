@@ -1,9 +1,12 @@
 # Recoil - GDD
 ### *Steinn Þorkelsson*
+## [Myndband af grunnleik](https://youtu.be/SBexSe9b8hk)
 ## Grunnhugmynd
 *   2-4 manna Free-for-all leikur þar sem að leikmennernir geta bara hreyft sig með því að skjóta. Sá sem stendur síðast eftir vinnur.
 
 ## Aðal eiginleikar
+* 2d platformer
+* physics based
 * einfalt og stílhreint lúkk en geggjað gameplay
 * 2-4 local manna multiplayer
 * Bara hægt að hreyfa sig með því að skjóta. Hrökkvun byssunar.
@@ -30,29 +33,33 @@
 * Bara ákveðinn mörg skot. Byssur eru með mismunandi stór magasín.
 * fire rate. Svo að spilarinn geti ekki bara dritað. Allar gerðir af byssum eru með mismunandi fire rate.
 * hægt er að hoppa með því að fljúga. spilarinn verður samt að koma niður eftir ákveðinn mörg skot til að endurhlaða skotin síns.
-*
+
 
 ## Mulitplayer
-*   a
+*   2-4 leikmenn
+*   bara hægt að spila með fjarstýringu
+
 ## Kort
-*   a
+*   nóg pláss fyrir 4 spilara.
+*   fullt af platforms
+*   sum platform hreyfast
+*   vegasölt
+*   platform með extra bounce
 ## Vopn
-*   a
+* bara einfalt til að byrja með
+*   haglabyssa,
+*   skambyssa
+*   hríðskotabyssa
 ## Cosmetics
-*   a
-## Lotukerfið
-*   a
+*   hægt að velja nokkra mismunandi hatta
+*   hægt að velja nokrra mismunandi liti
+## stigakerfið
+*   leikmenn geta valið hvað þeir vilja að leikurinn sé margar lotur
+*   ef að það er jafntefli í lok leiks á er bráðabani
+*   sá sem er stigahæstur vinnur leikinn
+*   bara hægt að fá stig með því að vera sá síðasti eftir í lotunni.
 ## Tónlist
-*   a
+*   bara einfalt midi dót
 ## Lúkkið
-*   a
-# Tæknileg atriði
-### *Hvernig mun þetta allt saman virka?*
-## Gameplay
-*   a
-## Multiplayer
-*   a
-## Senur
-*   a
-## Stigakerfið
-*   a
+*   eins einfalt og hægt er
+*   fáa liti og einblína á fegurð
